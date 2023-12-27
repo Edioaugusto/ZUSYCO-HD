@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "233557560911",
-  SUDO_NUMBERS : "233557560911",
-  OWNER_NAME: "『 Trending Boss 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "923465125306",
+  SUDO_NUMBERS : "923465125306",
+  OWNER_NAME: "『 ᗩ O O ᑎ_ᗰ ᑌ ᘜ ᕼ ᗩ ᒪ 』",
+  BOT_NAME : "ᒍ ᗴ ᗴ ᖇ Y",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -40,8 +40,8 @@ module.exports = {
   BAD_WORDS : '',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
-  ANTI_LINK_KICK : false,
+  ANTI_LINK : true,
+  ANTI_LINK_KICK : true,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : false,
@@ -54,7 +54,7 @@ module.exports = {
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
+  AUTO_REACT : true,
   OWNER_REACT : '',
   AUTO_BGM : false,
   BGM : {
