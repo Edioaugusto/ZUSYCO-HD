@@ -11,15 +11,15 @@
 
 
 Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Creator : @sousahd , @mr-edio-x 
 
 */
 
 module.exports = {
-  OWNER_NUMBER: "923465125306",
-  SUDO_NUMBERS : "923465125306",
-  OWNER_NAME: "『 ᗩ O O ᑎ_ᗰ ᑌ ᘜ ᕼ ᗩ ᒪ 』",
-  BOT_NAME : "ᒍ ᗴ ᗴ ᖇ Y",
+  OWNER_NUMBER: "258876598622",
+  SUDO_NUMBERS : "258833152230",
+  OWNER_NAME: "『 𝙀𝘿𝙄𝙊 𝘼𝙇𝙏 』",
+  BOT_NAME : "𝙀𝘿𝙄𝙊 𝙃𝘿",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
